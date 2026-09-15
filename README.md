@@ -1,6 +1,8 @@
 # ProgressionTimer
 
-ProgressionTimer is a Kotlin and Jetpack Compose Android app for timing repeatable progression-based activities such as breath holds, speed cubing, plank holds, reciting drills, or language practice.
+ProgressionTimer is a Kotlin and Jetpack Compose Android application for timing
+repeatable, progression-based activities such as breath holds, speed cubing,
+plank holds, recitation drills, and language practice.
 
 ## What is included
 
@@ -17,4 +19,7 @@ ProgressionTimer is a Kotlin and Jetpack Compose Android app for timing repeatab
 2. Let Gradle sync and download dependencies.
 3. Run the `app` configuration on an emulator or Android device.
 
-This workspace does not currently include a Gradle wrapper jar. Android Studio can still import the project and sync it using its configured Gradle installation. If you have Gradle installed locally, run `gradle wrapper` from this folder to generate wrapper scripts.
+The repository does not currently include a Gradle wrapper JAR. Android Studio
+can import the project and sync it using its configured Gradle installation. If
+Gradle is installed locally, run `gradle wrapper` from the project directory to
+generate wrapper scripts.
