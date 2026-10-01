@@ -3,6 +3,7 @@
 ProgressionTimer is a Kotlin and Jetpack Compose Android application for timing
 repeatable, progression-based activities such as breath holds, speed cubing,
 plank holds, recitation drills, and language practice.
+For me I used it to time myself to memorize a full deck of cards
 
 ## What is included
 
